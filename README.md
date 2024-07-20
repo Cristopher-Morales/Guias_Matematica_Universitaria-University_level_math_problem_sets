@@ -1,4 +1,4 @@
 # Guias_Matematica_Universitaria
+This repository contains university-level mathematics problem sets on various topics that I compiled when I was an undergraduate student and have now written in LaTeX. The exercises are not my own; I collected them from problem sets and exams from various Chilean universities, specifically the University of Chile, Federico Santa María Technical University, University of Santiago, Chile, and Pontifical Catholic University of Chile. <br />
 Este repositorio contiene guias de ejercicios de matematicas nivel universitario de distintos topicos que recopile cuando era estudiante de pregrado y ahora los he escrito en latex. Los ejercicios no son de mi autoria, estos los recopile  de guias y pruebas de distintas universidades chilenas, especificamente la Universidad de Chile, Universidad Federico Santa Maria, Universidad de Santiago de Chile y Universidad Catolica de Chile.
-<br />
-This repository contains university-level mathematics problem sets on various topics that I compiled when I was an undergraduate student and have now written in LaTeX. The exercises are not my own; I collected them from problem sets and exams from various Chilean universities, specifically the University of Chile, Federico Santa María Technical University, University of Santiago, Chile, and Pontifical Catholic University of Chile.
+
