@@ -52,8 +52,9 @@ Guias-Matematica-Universitaria/
 ├── Probabilidades-y-Estadistica_Probability-and-Statistics/
 ├── LICENSE
 └── README.md
+```
 
-Language
+### Language
 
     Folder names and content may appear in Spanish and English
 
@@ -61,17 +62,18 @@ Language
 
     LaTeX is used throughout to ensure high-quality typesetting
 
-License
+### License
 
 This repository is distributed under the GNU General Public License v3.0 (GPL-3.0).
 The license applies to the LaTeX source files and repository structure, not to the original authorship of the exercises.
-Intended Use
 
-    University students seeking additional practice material
+### Intended Use
 
-    Self-study and exam preparation
+    - University students seeking additional practice material
 
-    Educational reference for mathematics instructors
+    - Self-study and exam preparation
+
+    - Educational reference for mathematics instructors
 
 If you find this repository useful, feel free to share it with others who may benefit from it.
 
