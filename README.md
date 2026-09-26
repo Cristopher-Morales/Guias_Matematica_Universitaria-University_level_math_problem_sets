@@ -20,6 +20,7 @@ The primary goal of this repository is to provide **well-organised, LaTeX-format
 - **Differential Equations**
 - **Partial Differential Equations**
 - **Probability and Statistics**
+- **Numerical Analysis**
 
 Each topic is organised into its own folder and contains pdf documents.
 
@@ -44,6 +45,7 @@ No claim of authorship is made over the exercises themselves.
 Guias-Matematica-Universitaria/
 ├── Algebra/
 ├── Algebra-Lineal_Linear-Algebra/
+├── Analisis Numerico_Numerical Analysis/
 ├── Calculo-Calculus/
 ├── Calculo-Vectorial_Vector-Calculus/
 ├── Calculo-en-Varias-Variables_Calculus-of-Several-Variables/
